@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\Android\Projects\lab3\app\src\main\assets"><file name="lab03-activity-logging-state-prefs.docx" path="H:\Android\Projects\lab3\app\src\main\assets\lab03-activity-logging-state-prefs.docx"/></source><source path="H:\Android\Projects\lab3\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="H:\Android\Projects\lab3\app\src\debug\assets"/></dataSet></merger>
